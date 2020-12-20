@@ -10,3 +10,5 @@
 
 방법 : 한국에서 인기를 끈 중국/대만 영화 총7개에 대한 네이버영화 댓글 54,514개를 수집하여 언어분석(형태소분석, Word2Vec)수행.
 
+![image](https://user-images.githubusercontent.com/74239283/102712332-b96fb200-4303-11eb-80c4-8f5e8566fbe3.png)
+![image](https://user-images.githubusercontent.com/74239283/102712354-eae87d80-4303-11eb-98b7-886066cfd24e.png)
